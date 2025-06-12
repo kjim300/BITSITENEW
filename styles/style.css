@@ -303,4 +303,10 @@
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
 
+.horizontal-text {
+  text-align: center;
+  font-size: 24px; /* Збільшіть розмір, наприклад, до 24px або більше */
+  font-weight: bold; /* Опціонально — зробити текст жирним */
+  margin-top: 10px; /* Відступ зверху, якщо треба */
+}
 
